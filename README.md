@@ -89,4 +89,6 @@
 
 Причины изменений между v0.1 и v0.2 записаны в [логе решений](DECISIONS.md).
 
+В [GitHub Releases](https://github.com/ilyascw/ai-th-microservices/releases) можно скачать исходный `.drawio` и PNG для просмотра. Краткое описание каждого релиза составляется по логу решений.
+
 PNG, SVG и локальная копия draw.io в Git не добавляются.
