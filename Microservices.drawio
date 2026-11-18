@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Containers v0.2" id="containers-v02">
-    <mxGraphModel dx="2110" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1560" pageHeight="1020" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1560" pageHeight="1020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,7 @@
         <mxCell id="gWo-qfT_5xFTmIVAcbO6-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="40" width="100" x="40" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="3OKiUsp5EQUa_OY_cGBe-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Брокер сообщений" vertex="1">
+        <mxCell id="3OKiUsp5EQUa_OY_cGBe-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Очередь сообщений" vertex="1">
           <mxGeometry height="30" width="130" x="150" y="-295" as="geometry" />
         </mxCell>
         <mxCell id="3OKiUsp5EQUa_OY_cGBe-10" edge="1" parent="1" source="3OKiUsp5EQUa_OY_cGBe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="3OKiUsp5EQUa_OY_cGBe-9">
