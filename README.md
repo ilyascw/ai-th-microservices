@@ -99,9 +99,9 @@
 
 ## Схемы и PNG
 
-Исходная схема — `Microservices.drawio` в корне проекта. Команда `make png` создаёт `Microservices.png`. Скрипт `scripts/install-deps.sh` устанавливает официальный draw.io Desktop для macOS ARM в `.tools/`; `make png` вызывает его автоматически.
+Исходная схема `Microservices.drawio` содержит контейнерную диаграмму v0.3. Команда `make png` создаёт `Microservices.png`. При необходимости `make png` вызывает `scripts/install-deps.sh` для установки draw.io Desktop для macOS ARM в `.tools/`.
 
-Причины изменений между v0.1 и v0.2 записаны в [логе решений](DECISIONS.md).
+Причины изменений по версиям записаны в [логе решений](DECISIONS.md).
 
 В [GitHub Releases](https://github.com/ilyascw/ai-th-microservices/releases) можно скачать исходный `.drawio` и PNG для просмотра. Краткое описание каждого релиза составляется по логу решений.
 
